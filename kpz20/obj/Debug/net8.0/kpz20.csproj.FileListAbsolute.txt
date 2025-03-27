@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\kpz20\kpz20\obj\Debug\net8.0\kpz20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\kpz20\kpz20\obj\Debug\net8.0\kpz20.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\kpz20\kpz20\obj\Debug\net8.0\kpz20.AssemblyInfo.cs
+C:\Users\User\source\repos\kpz20\kpz20\obj\Debug\net8.0\kpz20.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kpz20\kpz20\bin\Debug\net8.0\kpz20.exe
+C:\Users\User\source\repos\kpz20\kpz20\bin\Debug\net8.0\kpz20.deps.json
+C:\Users\User\source\repos\kpz20\kpz20\bin\Debug\net8.0\kpz20.runtimeconfig.json
+C:\Users\User\source\repos\kpz20\kpz20\bin\Debug\net8.0\kpz20.dll
+C:\Users\User\source\repos\kpz20\kpz20\bin\Debug\net8.0\kpz20.pdb
+C:\Users\User\source\repos\kpz20\kpz20\obj\Debug\net8.0\kpz20.dll
+C:\Users\User\source\repos\kpz20\kpz20\obj\Debug\net8.0\refint\kpz20.dll
+C:\Users\User\source\repos\kpz20\kpz20\obj\Debug\net8.0\kpz20.pdb
+C:\Users\User\source\repos\kpz20\kpz20\obj\Debug\net8.0\kpz20.genruntimeconfig.cache
+C:\Users\User\source\repos\kpz20\kpz20\obj\Debug\net8.0\ref\kpz20.dll
